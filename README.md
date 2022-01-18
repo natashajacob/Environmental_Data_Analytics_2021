@@ -3,4 +3,4 @@ Course repository for Environmental Data Analytics (ENV 872L) at Duke University
 
 Name: Natasha Jacob
 
-Discussion questions in Assignemnt 1 were answered. The file was converted to a pad and submitted. 
+Discussion questions in Assignemnt 1 were answered. The file was converted to a pdf and submitted. 
